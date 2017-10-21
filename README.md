@@ -4,4 +4,7 @@ For now:
 -> Perceptron
 -> Adaline
 -> MultiLayer Perceptron with Backpropagation
+-> MLP with Kalman Filter
 
+# Using Keras/Tensorflow
+-> Convulution Neural Network for Cifar-10 problem
